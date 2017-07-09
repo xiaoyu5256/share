@@ -1,2 +1,4 @@
 dist
 *.html
+.idea/*
+.DS_Store
